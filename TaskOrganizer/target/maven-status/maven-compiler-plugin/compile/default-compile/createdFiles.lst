@@ -1,0 +1,5 @@
+com\mycompany\taskorganizer\TaskManager.class
+module-info.class
+com\mycompany\taskorganizer\App.class
+com\mycompany\taskorganizer\Tasks.class
+com\mycompany\taskorganizer\Task.class
